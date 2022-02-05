@@ -1,0 +1,19 @@
+body{
+    position:center;
+}
+h4{
+    color:red;
+    font-style:oblique ;
+    background: white;
+    width:20%;
+}
+img{
+    border-radius: 50px;
+    width:100px;
+    box-shadow:1px, 5px, 1px, red;
+}
+div{
+    box-shadow:4px, 5px, 3px, black;
+    background-color:grey;
+    border-radius:25px;
+}
